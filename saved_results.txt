@@ -1,0 +1,13 @@
+--- !ruby/object:Codebreaker::ResultsCollection
+results:
+- :name: '222'
+  :score: 120
+  :date: 2015-06-08 17:03:22.109375000 +03:00
+- :name: '222'
+  :score: 110
+  :date: 2015-06-08 17:21:27.484375000 +03:00
+- :name: qqq
+  :score: 60
+  :secret_code: 4
+  :date: 2015-06-08 16:59:57.578125000 +03:00
+

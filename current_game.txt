@@ -1,0 +1,10 @@
+--- !ruby/object:Codebreaker::Game
+secret_code: '1125'
+number_of_turns: 8
+hint_position: 0
+hints_avaliable: 1
+user_guesses_and_answers:
+- '1111': ++
+- '1125': ++++
+game_status: win
+result_saved: true
